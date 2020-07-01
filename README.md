@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html 
   class="is-page-index_index data-customer"
  lang="vi" dir="ltr">
@@ -88,16 +87,6 @@
       }(document, 'script', 'facebook-jssdk'));
       </script>
 
-      <!-- Your customer chat code -->
-      <div class="fb-customerchat hidden-phone"
-        attribution=setup_tool
-        page_id="385420511595605"
-        greeting_dialog_display: hide;        
-        is_guest_user=false;        
-        theme_color="#fe7500"
-        logged_in_greeting="Xin Chào Qúy Khách . Chiếm Tài Mobile có thể hỗ trợ được gì cho Qúy Khách ạ ?"
-        logged_out_greeting="Xin Chào Qúy Khách . Chiếm Tài Mobile có thể hỗ trợ được gì cho Qúy Khách ạ ?">
-      </div>
         
         <div class="ty-tygh   bp-tygh-container" id="tygh_container">
 
